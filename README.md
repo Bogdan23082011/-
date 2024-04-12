@@ -11,7 +11,7 @@
         </h1>
             <p style="font-size:20px">Запрошуємо освоїти будь-який з видів рукопашного бою, який вам до вподоби. <br/>У нас представлені: <b><i>традиційний рукопашний бій, тайський бокс, Джиу-джитсу, карате та багато іншого</i></b>. Заняття ведуть професійні тренери у групах різного рівня.
             </p>
-        <img src="https://legendasport.com.ua/wp-content/uploads/2022/05/IMG_0658-1024x683.jpg" height=230px";/>   
+        <img src="https://legendasport.com.ua/wp-content/uploads/2022/05/IMG_0658-1024x683.jpg" height=230px"/>   
     </main>
     <footer style="background-color:black;color:white;">
         <p style="font-size:15px"> Адреса: місто Спортивне, вул. 15.</p>
