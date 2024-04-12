@@ -1,8 +1,5 @@
 <html>
-     
-    
-    <body style="font-family:sans-serif">
-   
+     <body style="font-family:sans-serif">
     <main style="background-color:lightgray">
         <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа бойових мистецтв<br/>
         </h1>
