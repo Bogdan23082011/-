@@ -9,7 +9,7 @@
         <h1 style="font-size:50px;background-color:lightgray; text-align:center">Школа бойових мистецтв<br/>
         <img src="https://learn.logikaschool.com/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png/" height="150"/></h1>
         <p style="font-size:20px">Запрошуємо освоїти будь-який з видів рукопашного бою, який вам до вподоби. <br/>У нас представлені: <b><i>традиційний рукопашний бій, тайський бокс, Джиу-джитсу, карате та багато іншого</i></b>. Заняття ведуть професійні тренери у групах різного рівня.</p>
-        <img src="[[https://learn.logikaschool.com/uploads/2020/10/karate-4575114_640_0_1602523338.png](https://media.istockphoto.com/id/665715226/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BC%D1%83%D0%B0%D0%B9-%D1%82%D0%B0%D0%B9-%D0%B8%D0%BB%D0%B8-%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B1%D0%BE%D0%BA%D1%81-%D0%B2-%D1%82%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%D0%B5.jpg?s=612x612&w=0&k=20&c=azS-R2yDSTo4KQlDWRB3Skkv0TVVYu-pWs-JjEwpADM=)](https://st3.depositphotos.com/10312166/17300/v/380/depositphotos_173001884-stock-illustration-muay-thai-thai-boxing-standing.jpg)" height="230px";/>
+        <img src="https://learn.logikaschool.com/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px";/>
         <img src="https://learn.logikaschool.com/uploads/2020/10/punching-bag_0_1602525500.png" height="230px";/>
         <img src="https://learn.logikaschool.com/uploads/2020/10/boxing-ring_0_1602525156.png" height="230px";/>
     </main>
