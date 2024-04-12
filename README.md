@@ -10,7 +10,7 @@
         <img src="https://learn.logikaschool.com/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png/" height="150px"/>
         </h1>
             <p style="font-size:20px">Запрошуємо освоїти будь-який з видів рукопашного бою, який вам до вподоби. <br/>У нас представлені: <b><i>традиційний рукопашний бій, тайський бокс, Джиу-джитсу, карате та багато іншого</i></b>. Заняття ведуть професійні тренери у групах різного рівня.</p>     
-        <img src="https://learn.logikaschool.com/uploads/2020/10/karate-4575114_640_0_1602523338.png" height=230px"/>
+        <img src="https://learn.logikaschool.com/uploads/2020/10/karate-4575114_640_0_1602523338.png" height="230px"/>
     </main>
     <footer style="background-color:black; color:white;">
         <p style="font-size:15px"> Адреса: місто Спортивне, вул. 15.</p>
