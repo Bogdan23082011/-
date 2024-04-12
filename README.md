@@ -1,4 +1,4 @@
-# -<html>
+<html>
     <title>Школа бойових мистецтв</title>
     <body style="font-family:sans-serif">
     <header style="background-color:black">
