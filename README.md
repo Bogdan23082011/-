@@ -1,7 +1,6 @@
 <html>
      
-     <header><a href= style="color:white">Історія</a>
-    </header>
+    
     <body style="font-family:sans-serif">
    
     <main style="background-color:lightgray">
