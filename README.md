@@ -2,7 +2,7 @@
     <title>Школа бойових мистецтв</title>
     <body style="font-family:sans-serif">
     <header style="background-color:black">
-        <img src="https://learn.logikaschool.com/uploads/2020/10/boxing-1293088_640_0_1602494675.png" height="50px"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg/1024px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%29.svg.png" height="50px"/>
         <a href="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9%D0%BE%D0%B2%D1%96_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%86%D1%82%D0%B2%D0%B0" style="color:white">Історія</a>
     </header>
     <main style="background-color:lightgray">
