@@ -7,7 +7,7 @@
     </header>
     <main style="background-color:lightgray">
         <h1 style="font-size:50px; background-color:lightgray; text-align:center"> Танк AMX 13 <br/>
-        <img src="https://learn.logikaschool.com/uploads/2020/10/thai-boxing-297023_1280_0_1602496230.png" height="150px"/>
+        <img src="https://wiki.warthunder.ru/images/thumb/8/80/AMX13_Main.png/800px-AMX13_Main.png" height="150px"/>
         </h1>
             <p style="font-size:20px">французький легкий танк з хитною баштою. Розроблений в 1946—1949 роках і, неодноразово модернізований, вироблявся серійно в Франції з 1952 до 1964 року, та за ліцензією в Аргентині в 1968-1985 роках. </p>
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/AMX-13-.jpg" height="230px"/>
