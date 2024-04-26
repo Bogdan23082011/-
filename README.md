@@ -2,7 +2,7 @@
     <title>  Сім Французьких танків  </title>
     <body>
     <header>
-    <h1> <img src="https://dev.ua/storage/images/19/04/35/75/derived/e3d36c5a324ebe50133e43ae389767d8.jpg" height="150px"> Сім Французьких танків<img src="https://warthunder.com/assets/img/svg/colored/logo-warthunder-new.svg" height="150px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqKHBOmQ0_pBf1C6_SQ8FpS0DW-1iktZnIGE0ZDjDsQ&s" height="150px"> </h1>
+    <h1> <img src="https://dev.ua/storage/images/19/04/35/75/derived/e3d36c5a324ebe50133e43ae389767d8.jpg" height="150px"> <img src="https://warthunder.com/assets/img/svg/colored/logo-warthunder-new.svg" height="150px"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqKHBOmQ0_pBf1C6_SQ8FpS0DW-1iktZnIGE0ZDjDsQ&s" height="150px">Сім Французьких танків </h1>
     <h2> <a href="#GAMES"> 1)AMX 13 105 </a></h2>
     <h2> <a href="#GAMES2"> 2)amx 13 57 </a></h2>
     <h2> <a href="#GAMES3"> 3)AMX 13 F3 </a></h2>
