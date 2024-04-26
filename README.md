@@ -47,7 +47,7 @@
         <td>965-367</td>
     </tr>
     </table>
-    <p>Logika -_-</p>
+    <a href="https://learn.logikaschool.com/lesson?lesson=30101&level=1&module=1&task=70125">Logika -_-</a>
     </footer>
     </body>
 </html>
